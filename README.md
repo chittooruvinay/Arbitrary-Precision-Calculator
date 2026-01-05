@@ -66,9 +66,6 @@ C Programming
 
 Data Structures
 
-Bitwise and arithmetic logic
-
-File-based input handling
 
 📖 About
 
